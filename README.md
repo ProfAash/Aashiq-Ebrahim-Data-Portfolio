@@ -1,27 +1,28 @@
 # Aashiq-Ebrahim-Data-Portfolio
 Welcome to my technical portfolio. This repository is a comprehensive showcase of my ability to navigate the full data science lifecycle—from raw data ingestion and cleaning to advanced statistical modeling and deep learning.
 
-Technical Ecosystem
-I leverage a modern stack to extract meaning from noise:
+Technical Ecosystem:
+- I leverage a modern stack to extract meaning from noise:
 
-Languages: Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn)
+- Languages: Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn)
 
-Statistics: PCA, Linear/Logistic Regression, Hypothesis Evaluation
+- Statistics: PCA, Linear/Logistic Regression, Hypothesis Evaluation
 
-Machine Learning: K-Means, Hierarchical Clustering, Decision Trees
+- Machine Learning: K-Means, Hierarchical Clustering, Decision Trees
 
-Deep Learning: Neural Network Architecture (Sigmoid, Matrix Math)
+- Deep Learning: Neural Network Architecture (Sigmoid, Matrix Math)
 
-Project Navigation
+Project Navigation:
+
 I have categorized my work into four primary domains of expertise:
 
 1. Advanced Statistical Analysis & Dimensionality Reduction:
 
-  These projects demonstrate my ability to simplify complex, high-dimensional data without losing predictive power.
+  - These projects demonstrate my ability to simplify complex, high-dimensional data without losing predictive power.
 
-  US Arrests: Multivariate PCA: Used PCA to explain 87% of variance in crime data.
+  - US Arrests: Multivariate PCA: Used PCA to explain 87% of variance in crime data.
 
-  Iris 3D PCA Projection: Visualizing 4-dimensional data in 3D space.
+  - Iris 3D PCA Projection: Visualizing 4-dimensional data in 3D space.
 
 2. Supervised Learning & Predictive Modeling:
 
