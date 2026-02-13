@@ -26,29 +26,29 @@ I have categorized my work into four primary domains of expertise:
 
 2. Supervised Learning & Predictive Modeling:
 
-  Focusing on forecasting numerical values and classifying outcomes.
+  - Focusing on forecasting numerical values and classifying outcomes.
 
-  Titanic Survival Prediction: Decision Tree Classifier with optimized hyperparameter tuning.
+  - Titanic Survival Prediction: Decision Tree Classifier with optimized hyperparameter tuning.
 
-  Medical Cost Forecasting: Multiple Linear Regression to predict insurance premiums.
+  - Medical Cost Forecasting: Multiple Linear Regression to predict insurance premiums.
 
-  Iris Species Classification: Logistic Regression achieving 100% test accuracy.
+  - Iris Species Classification: Logistic Regression achieving 100% test accuracy.
 
 3. Unsupervised Learning & Clustering:
 
-  Identifying hidden patterns and segmenting populations without pre-existing labels.
+  - Identifying hidden patterns and segmenting populations without pre-existing labels.
 
-  Iris Taxonomy Analysis: Hierarchical Agglomerative Clustering using Dendrograms.
+  - Iris Taxonomy Analysis: Hierarchical Agglomerative Clustering using Dendrograms.
 
 4. Foundations of AI & Deep Learning:
 
-  Going "under the hood" to understand the mathematical mechanics of AI.
+  - Going "under the hood" to understand the mathematical mechanics of AI.
 
-  Neural Network Foundations: Building a multi-layer perceptron from scratch to solve XOR logic gates.
+  - Neural Network Foundations: Building a multi-layer perceptron from scratch to solve XOR logic gates.
 
 Featured Insight: The "Honest Analyst" Approach
 
-  In my Diabetes Progression Analysis. Instead presenting a flawed model, I documented the limitations of a linear approach for this clinical data. This project highlights my commitment to data integrity and my ability to recommend the right tool for the job.
+  - In my Diabetes Progression Analysis. Instead presenting a flawed model, I documented the limitations of a linear approach for this clinical data. This project highlights my commitment to data integrity and my ability to recommend the right tool for the job.
 
 Contact & Connectivity
 LinkedIn:https://www.linkedin.com/in/aashiq-ebrahim-7514ab34b
